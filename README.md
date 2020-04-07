@@ -11,7 +11,7 @@ Step 2: Install Anaconda with tf-CPU environment.
 Required Hardware Configuration - NVIDIA® GPU card with CUDA® Compute Capability 3.5 or higher
 
 Required Software Configuration- NVIDIA® GPU drivers —CUDA 10.1 requires 418.x or higher. CUDA® Toolkit —TensorFlow supports CUDA 10.1 (TensorFlow >= 2.1.0) CUPTI ships with the CUDA Toolkit. cuDNN SDK (>= 7.6)
-tf environment comes with tensorflow, but other files libraries like keras, matplotlib, plotly, sklearn, pillow needs to be installed before executing this code. 
+tf environment comes with tensorflow, but other libraries like keras, matplotlib, plotly, sklearn, pillow needs to be installed before executing this code. 
               
 
 Step 3: Download any model file ( VGG16, Resnet-50 or CNN)
