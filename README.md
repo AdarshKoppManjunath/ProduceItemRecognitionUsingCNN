@@ -9,17 +9,18 @@ Step 2: Install Anaconda with tf-CPU environment.
 
 
 Required Hardware Configuration - NVIDIA® GPU card with CUDA® Compute Capability 3.5 or higher
+
 Required Software Configuration- NVIDIA® GPU drivers —CUDA 10.1 requires 418.x or higher. CUDA® Toolkit —TensorFlow supports CUDA 10.1 (TensorFlow >= 2.1.0) CUPTI ships with the CUDA Toolkit. cuDNN SDK (>= 7.6)
-tf environment comes with tensorflow, but other files libraries like keras, matplotlib, plotly, sklearn, pillow needs to be installed before executing this code. 
+tf environment comes with tensorflow, but other libraries like keras, matplotlib, plotly, sklearn, pillow needs to be installed before executing this code. 
               
 
 Step 3: Download any model file ( VGG16, Resnet-50 or CNN)
 
 Step 4: Change dataset path, and  model save and load path in ipynb file according to your local system
 
-Step 6: Run all the cells. 
+Step 5: Run all the cells. 
 
-To execute in google colab, copy the google drive dataset like and export it to your own drive. Follow all steps from step 3 to step 6.
+To execute in google colab, copy the google drive dataset  and export it to your own drive. Follow all steps from step 3 to step 5.
 
 
 
