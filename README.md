@@ -17,9 +17,9 @@ Step 3: Download any model file ( VGG16, Resnet-50 or CNN)
 
 Step 4: Change dataset path, and  model save and load path in ipynb file according to your local system
 
-Step 6: Run all the cells. 
+Step 5: Run all the cells. 
 
-To execute in google colab, copy the google drive dataset like and export it to your own drive. Follow all steps from step 3 to step 6.
+To execute in google colab, copy the google drive dataset like and export it to your own drive. Follow all steps from step 3 to step 5.
 
 
 
