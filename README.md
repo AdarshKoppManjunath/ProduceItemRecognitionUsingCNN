@@ -20,8 +20,9 @@ Step 4: Change dataset path, and  model save and load path in ipynb file accordi
 
 Step 5: Run all the cells. 
 
+
+
 To execute in google colab, copy the google drive dataset  and export it to your own drive. Follow all steps from step 3 to step 5.
 
 
-
-
+Finally to test model through UI, we have a kivy application, but it's not packaged to exe. Howerver, On Installing Kivy on your windows machine along with the Tensorflow will help in running the code. 
