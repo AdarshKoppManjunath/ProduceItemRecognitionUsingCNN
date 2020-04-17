@@ -2,7 +2,7 @@
 
 <b>1) Introduction</b>
 <p>
-Produce is the generalized term for farm raised crops which includes fruits and vegetables. This same term is well adopted by most retail stores in Canada to describe the section where fruits and vegetables are kept in stores. Produce section in retail stores have items which are not UPC tagged thus making the self-checkout process difficult for both the customer and employees. We approched this problem with the help of image recognition with the help of data analytic life cycel. In this file, we will be explaining in detail how to set up environment and execute files for the produce item prediction. </P><br><br>
+Produce is the generalized term for farm raised crops which includes fruits and vegetables. This same term is well adopted by most retail stores in Canada to describe the section where fruits and vegetables are kept in stores. Produce section in retail stores have items which are not UPC tagged thus making the self-checkout process difficult for both the customer and employees. We approached this problem with the help of image recognition with the help of data analytic life cycle. In this file, we will be explaining in detail how to set up environment and execute files for the produce item prediction. </P><br><br>
 <b>Solution Overview</b>
 
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/Solution%20Overwiew.PNG" alt="Smiley face" >
