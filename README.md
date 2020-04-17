@@ -94,3 +94,18 @@ Execute <b></i>python main.py</i><b><br>
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Pineapple.PNG" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/redchilli.PNG" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/CarrotPrediction.PNG" alt="Smiley face" >
+
+<br><br><br>
+
+<b>5) Contributors <b><br><br>
+  
+1) DataSet - <br>
+&emsp;&emsp;&emsp;  Iveatu Jane Obioha: Captured Fruits and Vegetable Videos<br>
+&emsp;&emsp;&emsp;  Adarsh Koppa Manjunath: Videos and DataSet preparation<br><br>
+
+2) Model Development-<br>
+&emsp;&emsp;&emsp; Adarsh Koppa Manjunath: Data Preprocessing, Data Visualization, Model Training and Testing, and Testing Metrics<br><br>
+
+3) Kivy Application-<br>
+&emsp;&emsp;&emsp;  Stephen Oluwatobi Bello: Kivy Application UI development<br>
+&emsp;&emsp;&emsp;  Adarsh Koppa Manjunath: Model Integration
