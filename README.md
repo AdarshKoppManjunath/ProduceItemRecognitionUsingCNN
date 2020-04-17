@@ -63,19 +63,19 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
  <br><br>
  step d: you can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
  <br>
- <b>Train loss vs Validation loss <b>
+ <b>Train loss vs Validation loss <b><br>
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/loss.PNG" alt="Smiley face" >
 
  <br><br>
- <b>Train accuracy vs Validation accuracy</b>
+ <b>Train accuracy vs Validation accuracy</b><br>
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/accuracy.PNG" alt="Smiley face" >
 
  <br><br>
- <b>Classification Report</b>
+ <b>Classification Report</b><br>
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/classification%20report.PNG" alt="Smiley face" >
 
  <br><br>
- <b>Confusion Matrix</b>
+ <b>Confusion Matrix</b><br>
 <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/confusion%20matrix.PNG" alt="Smiley face" >
 
  
