@@ -74,10 +74,17 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
 Navigate to <b><i>cd PIR--Kivy-Application</i></b><br>
 Execute <b></i>python main.py</i><b><br>
   
+ 
+<b>4) Screenshots</b><br><br>
+
+<b> Open Camera </b>
+  
+<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Open%20Camera.PNG" alt="Smiley face" >
   
   
+ <b> Capture Image </b>
   
-  
+<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/capture.PNG" alt="Smiley face" >
   
      
         
