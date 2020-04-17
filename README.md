@@ -5,7 +5,9 @@
 Produce is the generalized term for farm raised crops which includes fruits and vegetables. This same term is well adopted by most retail stores in Canada to describe the section where fruits and vegetables are kept in stores. Produce section in retail stores have items which are not UPC tagged thus making the self-checkout process difficult for both the customer and employees. We approched this problem with the help of image recognition with the help of data analytic life cycel. In this file, we will be explaining in detail how to set up environment and execute files for the produce item prediction. </P>
 
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/Solution%20Overwiew.PNG" alt="Smiley face" >
+ <br>
 <b><Solution Overview</b><br><br>
+ 
 <b>2) Project Execution Steps</b>
   <p>
   This projecte can be executed on your local system or on google colab. First We will be talking about on how to execute on your local system.</p>
