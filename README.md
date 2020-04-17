@@ -79,25 +79,19 @@ Execute <b></i>python main.py</i><b><br>
 
 <b> Open Camera </b>
   
-<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Open%20Camera.PNG" alt="Smiley face" >
+<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Open%20Camera.PNG" alt="Smiley face" > <br><br>
   
   
  <b> Capture Image </b>
   
-<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Capture.PNG" alt="Smiley face" >
-  
-     
-        
-        
-        
-        
-<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Apple.PNG" alt="Smiley face" >
+<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Capture.PNG" alt="Smiley face" ><br><br>
+
+<b> Results of different produce items<b><br><br>
+ 
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Apple.PNG" alt="Smiley face" >
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Bannana.PNG" alt="Smiley face" >
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Brocolli.PNG" alt="Smiley face" >
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Pineapple.PNG" alt="Smiley face" >
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/redchilli.PNG" alt="Smiley face" >
 
 
-Step 1: DataSet can be downloaded either using github or using google drive         (https://drive.google.com/openid=1zGn8_CsleUBuRMfVG7JYnwqjaQtBp5Gl)
-
-
-
-
-
-Finally to test model through UI, we have a kivy application, but it's not packaged to exe. Howerver, On Installing Kivy on your windows machine along with the Tensorflow will help in running the code. 
