@@ -1,5 +1,9 @@
 # Produce Item Recognition Application For Retail Stores Based on Machine Learning	
 
+For user guide please refere - https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-User%20Guide.pdf
+For setup plaese refere- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup%20Guide.pdf
+
+
 <b>1) Introduction</b>
 <p>
 Produce is the generalized term for farm raised crops which includes fruits and vegetables. This same term is well adopted by most retail stores in Canada to describe the section where fruits and vegetables are kept in stores. Produce section in retail stores have items which are not UPC tagged thus making the self-checkout process difficult for both the customer and employees. We approached this problem with the help of image recognition with the help of data analytic life cycle. In this file, we will be explaining in detail how to set up environment and execute files for the produce item prediction. </P><br><br>
