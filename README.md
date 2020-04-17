@@ -63,6 +63,21 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
  <br><br>
  step d: you can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
  <br>
+ <b>Train loss vs Validation loss <b>
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/loss.PNG" alt="Smiley face" >
+
+ <br><br>
+ <b>Train accuracy vs Validation accuracy</b>
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/accuracy.PNG" alt="Smiley face" >
+
+ <br><br>
+ <b>Classification Report</b>
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/classification%20report.PNG" alt="Smiley face" >
+
+ <br><br>
+ <b>Confusion Matrix</b>
+<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/confusion%20matrix.PNG" alt="Smiley face" >
+
  
  <b>3) Kivy Application</b><br>
   If you are executing only application and don't bother to run model, you might have to follow only below few steps and can ignore all above steps. If you have alredy installed  all libraries mentioned in above steps, no need to follow below steps. <br><br>
