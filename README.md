@@ -1,6 +1,6 @@
 # Produce Item Recognition
 
-<b>1) INTRODUCTION</b>
+<b>1) Introduction</b>
 <p>
 Produce is the generalized term for farm raised crops which includes fruits and vegetables. This same term is well adopted by most retail stores in Canada to describe the section where fruits and vegetables are kept in stores. Produce section in retail stores have items which are not UPC tagged thus making the self-checkout process difficult for both the customer and employees. We approched this problem with the help of image recognition with the help of data analytic life cycel. In this file, we will be explaining in detail how to set up environment and execute files for the produce item prediction. </P>
 
@@ -25,7 +25,7 @@ Produce is the generalized term for farm raised crops which includes fruits and 
  &emsp;&emsp;&emsp;conda create -n tf tensorflow<br>
  &emsp;&emsp;&emsp;conda activate tf<br>
  
- step d: Clone github repository from the command line https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN.git <br>
+ step d: Clone github repository from the command line <br> git clone https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN.git <br>
  
  step e:  execute <i>cd ProduceItemRecognitionUsingCNN</i> to navigate to repository and install depending libraries with the below command<br>
  &emsp;&emsp;&emsp; pip install -r requiremnets.txt
@@ -58,8 +58,9 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
  PIR-VGG16_sgd-bs32-epoch11.ipynb
  <br><br>
  step d: you can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
+ <br>
  
-       
+ <b>3) Kivy Application<b>
      
         
         
