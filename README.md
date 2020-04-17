@@ -10,16 +10,16 @@ Produce is the generalized term for farm raised crops which includes fruits and 
  <br>
 <b>2) Model Execution Steps</b>
   <p>
-  This projecte can be executed on your local system or on google colab. First We will be talking about on how to execute on your local system.</p>
+  This project can be executed on your local system or on google colab. First We will be talking about on how to execute on your local system.</p>
   
- <b> 2.1) To execute on loacl system</b>-
+ <b> 2.1) To execute on local system</b>-
         Local Environment has to be setup  first. For this we have to verify our hardware and software configuration first.<br>
         
  <b> Required Hardware Configuration </b> - NVIDIA® GPU card with CUDA® Compute Capability 3.5 or higher<br>
   
  <b> Required Software Configuration </b>- NVIDIA® GPU drivers —CUDA 10.1 requires 418.x or higher. CUDA® Toolkit —TensorFlow       supports CUDA 10.1 (TensorFlow >= 2.1.0) CUPTI ships with the CUDA Toolkit. cuDNN SDK (>= 7.6)<br><br>
  
- After making sure of hardware and software environment following steps has to be performed-<br>
+ After making sure of hardware and software environment following steps must be performed-<br>
  
  step a: Install Anaconda from  https://www.anaconda.com/ <br>
  
@@ -31,7 +31,7 @@ Produce is the generalized term for farm raised crops which includes fruits and 
  
  step d: Clone github repository from the command line <br> git clone https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN.git <br>
  
- step e:  execute <i>cd ProduceItemRecognitionUsingCNN</i> to navigate to repository and install depending libraries with the below command<br>
+ step e:  execute <i>cd ProduceItemRecognitionUsingCNN</i> to navigate to repository and install required libraries with the below command<br>
  &emsp;&emsp;&emsp; pip install -r requiremnets.txt
  
  step f: Open jupyter notebook with the tf environment and execute all the steps in all three model files. Model files listed below. <br>
