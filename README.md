@@ -86,7 +86,7 @@ Execute <b></i>python main.py</i><b><br>
   
 <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Capture.PNG" alt="Smiley face" ><br><br>
 
-<b> Results of different produce items<b><br><br>
+<b> Results of different produce items</b><br><br>
  
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Apple.PNG" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Bannana.PNG" alt="Smiley face" >
@@ -97,7 +97,7 @@ Execute <b></i>python main.py</i><b><br>
 
 <br><br><br>
 
-<b>5) Contributors <b><br><br>
+<b>5) Contributors </b><br><br>
   
 1) DataSet - <br>
 &emsp;&emsp;&emsp;  Iveatu Jane Obioha: Captured Fruits and Vegetable Videos<br>
