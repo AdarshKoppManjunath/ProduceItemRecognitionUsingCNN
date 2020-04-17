@@ -8,6 +8,7 @@ Produce is the generalized term for farm raised crops which includes fruits and 
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/Solution%20Overwiew.PNG" alt="Smiley face" >
  
  <br><br>
+ <b>Dta Analytic Life Cycle</b>
   <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/Data%20Analytic%20Life%20Cycle.PNG alt="Smiley face" >
 
 <b>2) Project Execution Steps</b>
