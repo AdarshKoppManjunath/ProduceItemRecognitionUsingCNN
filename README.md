@@ -128,8 +128,8 @@ Execute <b></i>python main.py</i></b><br>
 <b>5) Contributors </b><br><br>
   
 1) DataSet - <br>
-&emsp;&emsp;&emsp;  Iveatu Jane Obioha: Captured Fruits and Vegetable Videos<br>
-&emsp;&emsp;&emsp;  Adarsh Koppa Manjunath: Videos and DataSet preparation<br><br>
+&emsp;&emsp;&emsp;  Iveatu Jane Obioha: Captured Videos and DataSet preparation<br>
+&emsp;&emsp;&emsp;  Adarsh Koppa Manjunath: Captured Videos and DataSet preparation<br><br>
 
 2) Model Development-<br>
 &emsp;&emsp;&emsp; Adarsh Koppa Manjunath: Data Preprocessing, Data Visualization, Model Training and Testing, and Testing Metrics<br><br>
