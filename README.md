@@ -60,7 +60,25 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
  step d: you can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
  <br>
  
- <b>3) Kivy Application<b>
+ <b>3) Kivy Application</b><br>
+  If you are executing only application and don't bother to run model, you might have to follow only below few steps and can ignore all above steps. If you have alredy installed  all libraries mentioned in above steps, no need to follow below steps. <br><br>
+  
+  step a) Follow step a to c from the section 2.1<br>
+  step b) Download kivy application code from the below command<br>
+  git clone https://github.com/AdarshKoppManjunath/PIR--Kivy-Application.git<br>
+  step c) Execute  any of below command to install kivy <br><br><i>
+  conda install -c conda-forge kivy<br>
+  conda install -c conda-forge/label/cf201901 kivy<br>
+  conda install -c conda-forge/label/cf202003 kivy</i><br><br>
+  
+Navigate <b>cd PIR--Kivy-Application<b><br>
+Execute <b>python main.py<b><br>
+  
+  
+  
+  
+  
+  
      
         
         
