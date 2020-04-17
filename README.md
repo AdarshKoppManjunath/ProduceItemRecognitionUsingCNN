@@ -19,9 +19,9 @@ Produce is the generalized term for farm raised crops which includes fruits and 
  
  step a: Install Anaconda from  https://www.anaconda.com/ <br>
  
- Step b: Open Anacond Navigator and click on console option <br>
+ step b: Open Anacond Navigator and click on console option <br>
  
- Step c: Install tensorflow in anaconda with the following commands <br>
+ step c: Install tensorflow in anaconda with the following commands <br>
  &emsp;&emsp;&emsp;conda create -n tf tensorflow<br>
  &emsp;&emsp;&emsp;conda activate tf<br>
  
