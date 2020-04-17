@@ -93,5 +93,4 @@ Execute <b></i>python main.py</i><b><br>
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Brocolli.PNG" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Pineapple.PNG" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/redchilli.PNG" alt="Smiley face" >
-
-
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/CarrotPrediction.PNG" alt="Smiley face" >
