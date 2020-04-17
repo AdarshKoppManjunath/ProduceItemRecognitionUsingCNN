@@ -72,7 +72,7 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
   conda install -c conda-forge/label/cf202003 kivy</i><br><br>
   
 Navigate to <b><i>cd PIR--Kivy-Application</i></b><br>
-Execute <b></i>python main.py</i><b><br>
+Execute <b></i>python main.py</i></b><br>
   
  
 <b>4) Screenshots</b><br><br>
@@ -109,3 +109,9 @@ Execute <b></i>python main.py</i><b><br>
 3) Kivy Application-<br>
 &emsp;&emsp;&emsp;  Stephen Oluwatobi Bello: Kivy Application UI development<br>
 &emsp;&emsp;&emsp;  Adarsh Koppa Manjunath: Model Integration
+
+
+<br><br>
+<b>Contact Information:</b><br>
+Name: Adarsh Koppa Manjunath
+Email: adarshkoppamanjunath@gmail.com
