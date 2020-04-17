@@ -127,17 +127,18 @@ Execute <b></i>python main.py</i></b><br>
 <br><br><br>
 
 <b>5) Contributors </b><br><br>
-  
-1) DataSet - <br>
-&emsp;&emsp;&emsp;  Iveatu Jane Obioha: Captured Videos and DataSet preparation<br>
-&emsp;&emsp;&emsp;  Adarsh Koppa Manjunath: Captured Videos and DataSet preparation<br><br>
+ 
+ 1. Development of Data science business problem to be solved<br><br> 
+	By - Iveatu, Adarsh and Stephen<br><br>
+2. Brand New Dataset Creation of fruits and Vegetable<br><br>
+	By - Iveatu and Adarsh<br><br>
+3. Model Planning<br><br>
+	By - Adarsh, Iveatu and Stephen<br><br>
+4. Model Building<br><br>
+ 	By - Adarsh<br><br>
+5. App Development  and Integration<br><br>
+	By- Stephen and Adarsh<br><br>
 
-2) Model Development-<br>
-&emsp;&emsp;&emsp; Adarsh Koppa Manjunath: Data Preprocessing, Data Visualization, Model Training and Testing, and Testing Metrics<br><br>
-
-3) Kivy Application-<br>
-&emsp;&emsp;&emsp;  Stephen Oluwatobi Bello: Kivy Application UI development<br>
-&emsp;&emsp;&emsp;  Adarsh Koppa Manjunath: Model Integration
 
 
 <br><br>
