@@ -7,11 +7,7 @@ Produce is the generalized term for farm raised crops which includes fruits and 
 
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/Solution%20Overwiew.PNG" alt="Smiley face" >
  
- <br><br>
- <b>Dta Analytic Life Cycle</b>
- 
-  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/Data%20Analytic%20Life%20Cycle.PNG" alt="Smiley face" >
-
+ <br>
 <b>2) Project Execution Steps</b>
   <p>
   This projecte can be executed on your local system or on google colab. First We will be talking about on how to execute on your local system.</p>
