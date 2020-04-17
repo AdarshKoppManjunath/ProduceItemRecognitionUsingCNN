@@ -1,4 +1,4 @@
-# Produce Item Recognition
+# Produce Item Recognition Application For Retail Stores Based on Machine Learning	
 
 <b>1) Introduction</b>
 <p>
@@ -8,7 +8,7 @@ Produce is the generalized term for farm raised crops which includes fruits and 
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/Solution%20Overwiew.PNG" alt="Smiley face" >
  
  <br>
-<b>2) Project Execution Steps</b>
+<b>2) Model Execution Steps</b>
   <p>
   This projecte can be executed on your local system or on google colab. First We will be talking about on how to execute on your local system.</p>
   
