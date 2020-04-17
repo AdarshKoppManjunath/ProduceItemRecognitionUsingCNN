@@ -78,6 +78,10 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
  <b>Confusion Matrix</b><br>
 <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/confusion%20matrix.PNG" alt="Smiley face" >
 
+<br><br>
+<b> Results </b><br>
+<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/FinalResults.PNG" alt="Smiley face" >
+
  
  <b>3) Kivy Application</b><br>
   If you are executing only application and don't bother to run model, you might have to follow only below few steps and can ignore all above steps. If you have alredy installed  all libraries mentioned in above steps, no need to follow below steps. <br><br>
