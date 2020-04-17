@@ -84,7 +84,7 @@ Execute <b></i>python main.py</i><b><br>
   
  <b> Capture Image </b>
   
-<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/capture.PNG" alt="Smiley face" >
+<img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Capture.PNG" alt="Smiley face" >
   
      
         
