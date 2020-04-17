@@ -42,7 +42,7 @@ Produce is the generalized term for farm raised crops which includes fruits and 
   &emsp;&emsp;&emsp;
  PIR-VGG16_sgd-bs32-epoch11.ipynb
  <br><br>
- step g: you can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
+ step g: can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
  
 <b> 2.2)To execute on google colab</b> - <br>
  
@@ -61,7 +61,7 @@ https://drive.google.com/open?id=1a9G7L8ztvcolDm6HJ9IDBAzveIQjIgU0 <br>
   &emsp;&emsp;&emsp;
  PIR-VGG16_sgd-bs32-epoch11.ipynb
  <br><br>
- step d: you can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
+ step d:  can see final result- classification report, confusion matrix and prediction for all the three models in your notebook.<br><br>
  <br>
  <b>Train loss vs Validation loss </b><br>
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Images/loss.PNG" alt="Smiley face" >
