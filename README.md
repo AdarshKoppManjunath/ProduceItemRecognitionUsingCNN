@@ -1,9 +1,9 @@
 # Produce Item Recognition Application For Retail Stores Based on Machine Learning	
 
 
-<b>For  setup please refere </b>- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-Setup%20Guide.pdf<br><br>
+<b>For  SETUP please refere </b>- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-Setup%20Guide.pdf<br><br>
 
-<b>For user guide plaese refere</b>- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-User%20Guide.pdf
+<b>For USER GUIDE plaese refere</b>- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-User%20Guide.pdf
 <br><br>
 
 
