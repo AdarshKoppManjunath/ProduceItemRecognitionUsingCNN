@@ -1,9 +1,9 @@
 # Produce Item Recognition Application For Retail Stores Based on Machine Learning	
 
 
-For setup please refere - https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-Setup%20Guide.pdf<br><br>
+<b>For  setup please refere </b>- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-Setup%20Guide.pdf<br><br>
 
-For user guide plaese refere- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-User%20Guide.pdf
+<b>For user guide plaese refere</b>- https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Setup-%20User%20Guide-%20PPTs/PIR-User%20Guide.pdf
 <br><br>
 
 
@@ -118,8 +118,8 @@ Execute <b></i>python main.py</i></b><br>
 
 <b> Results of different produce items</b><br><br>
  
- <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Apple.PNG" alt="Smiley face" >
- <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Bannana.PNG" alt="Smiley face" >
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/apple%20(1).jpeg" alt="Smiley face" >
+ <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Bannana.jpeg" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Brocolli.PNG" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/Pineapple.PNG" alt="Smiley face" >
  <img src="https://github.com/AdarshKoppManjunath/ProduceItemRecognitionUsingCNN/blob/master/PIR-Screenshots/redchilli.PNG" alt="Smiley face" >
