@@ -127,19 +127,6 @@ Execute <b></i>python main.py</i></b><br>
 
 <br><br><br>
 
-<b>5) Contributors </b><br><br>
- 
- 1. Development of Data science business problem to be solved<br><br> 
-	By - Iveatu, Adarsh and Stephen<br><br>
-2. Brand New Dataset Creation of fruits and Vegetable<br><br>
-	By - Iveatu and Adarsh<br><br>
-3. Model Planning<br><br>
-	By - Adarsh, Iveatu and Stephen<br><br>
-4. Model Building<br><br>
- 	By - Adarsh<br><br>
-5. App Development  and Integration<br><br>
-	By- Stephen and Adarsh<br><br>
-
 
 
 
